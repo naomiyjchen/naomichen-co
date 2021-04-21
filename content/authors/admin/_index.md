@@ -67,7 +67,9 @@ highlight_name: false
 
 ## **Academics & Research**
 
-I graduated from University of California, Los Angeles in 2020 with a B.S. in applied mathematics and a specialization in computing. To advance my research skills, I'm currently working as a Research Machine Learning Engineer at Academic Sinica, in Taipei, Taiwan. I'm contributing to the project *To Digitally Innovate Academic Settings* by the Institute of History and Philology. My work focuses on conducting attention analysis and coreference resolution on historical texts from ancient China.
+I graduated from University of California, Los Angeles in 2020 with a B.S. in applied mathematics and a specialization in computing. 
+
+To advance my research skills, I'm currently working as a Research Machine Learning Engineer at Academic Sinica, in Taipei, Taiwan. I'm contributing to the project *To Digitally Innovate Academic Settings* by the Institute of History and Philology. My work focuses on conducting attention analysis and coreference resolution on historical texts from ancient China.
 <br>
 <br>
 ## **Career Goal and Interest**
@@ -81,8 +83,6 @@ In the future, I hope to gather likeminded people and work to push toward this i
 <br>
 ## **About Math and Teaching**
 
-During my free time, I sometimes teach children math. I see this as a way of giving back to society. 
-
-Learning mathematics has help me build a growth mindset and good logical reasoning skills, so I truly believe that children can be benefited by having a positive attitude toward math.
+During my free time, I sometimes teach children math. I see this as a way of giving back to society. Learning mathematics has help me build a growth mindset and good logical reasoning skills, so I truly believe that children can be benefited by having a positive attitude toward math.
 
 
