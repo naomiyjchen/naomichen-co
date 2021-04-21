@@ -10,8 +10,8 @@ role: I become things. Use your imagination, buddy.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Academia Sinica
-  url: https://www.sinica.edu.tw/en
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -70,9 +70,9 @@ highlight_name: false
 
 ## **Academics & Research**
 
-I graduated from University of California, Los Angeles in 2020 with a B.S. in applied mathematics and a specialization in computing. 
+I graduated from [University of California, Los Angeles](https://www.ucla.edu/) in 2020 with a B.S. in applied mathematics and a specialization in computing. 
 
-To advance my research skills, I'm currently working as a Research Machine Learning Engineer at Academic Sinica, in Taipei, Taiwan. I'm contributing to the project *To Digitally Innovate Academic Settings* by the Institute of History and Philology. My work focuses on conducting attention analysis and coreference resolution on historical texts from ancient China.
+To advance my research skills, I'm currently working as a Research Machine Learning Engineer at [Academic Sinica](https://www.sinica.edu.tw/en), in Taipei, Taiwan. I'm contributing to the project *To Digitally Innovate Academic Settings* by the [Institute of History and Philology](https://www1.ihp.sinica.edu.tw/en). My work focuses on conducting attention analysis and coreference resolution on historical texts from ancient China.
 <br>
 <br>
 ## **Career Goal and Interest**
