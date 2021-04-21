@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: 'post/'
-    weight: 20
+#  - name: Posts
+#    url: 'post/'
+#    weight: 20
 #    identifier: "a-unique-reference"
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
 #    parent: "a-unique-reference"
-  - name: Projects
-    url: 'project1/'
-    weight: 30
+#  - name: Projects
+#    url: 'project1/'
+#    weight: 30
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
