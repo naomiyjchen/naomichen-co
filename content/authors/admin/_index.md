@@ -70,7 +70,7 @@ highlight_name: false
 I graduated from University of California, Los Angeles in 2020 with a B.S. in applied mathematics and a specialization in computing. To advance my research skills, I'm currently working as a Research Machine Learning Engineer at Academic Sinica, in Taipei, Taiwan. I'm contributing to the project *To Digitally Innovate Academic Settings* by the Institute of History and Philology. My work focuses on conducting attention analysis and coreference resolution on historical texts from ancient China.
 <br>
 <br>
-## **Career Goals and Interest**
+## **Career Goal and Interest**
 
 One of my career interests lies in leveraging machine learning models to help business make well-informed decisions and introducing labor-saving technologies to traditional business.
 
