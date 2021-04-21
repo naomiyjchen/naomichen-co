@@ -10,11 +10,11 @@ role: I become things. Use your imagination, buddy.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Los Angeles
-  url: https://www.ucla.edu/
+- name: Academia Sinica
+  url: https://www.sinica.edu.tw/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
