@@ -5,7 +5,7 @@
 
 title: Naomi Chen # Website name
 baseurl: 'https://naomichen.netlify.app/' # Website URL
-copyright: '&copy; {year} Naomi Chen' # Footer text, e.g. '© {year} Me'
+copyright: '&copy; {year} Naomi Chen. All rights reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
