@@ -46,7 +46,7 @@ social:
   link: https://github.com/naomiyjchen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/naomiyjchen
+  link: https://www.linkedin.com/in/naomiyjchen
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/naomiyjchen
