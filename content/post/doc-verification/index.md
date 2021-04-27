@@ -99,9 +99,9 @@ categories:
 
 - Address for Taipei economic and cultural office in LA: Republic of China (Taiwan) 3731 Wilshire Boulevard, Suite 700 Map Los Angeles, CA 90010
 - 建議採取中華郵政國際快捷或其他較有保障之郵寄方式（如DHL或UPS等快遞公司），以確保文件寄達本處。中華郵政及其他快遞公司所收郵資又因郵件重量及郵寄速度不同而有多種郵寄方式，相關資訊請參考：
-    - 中華郵政（[http://www.post.gov.tw/post/index.jsp](http://www.post.gov.tw/post/index.jsp)）
-    - DHL（[http://www.dhl.com.tw/publish/tw/zt.high.html](http://www.dhl.com.tw/publish/tw/zt.high.html))
-    - UPS（[http://www.ups.com/content/tw/zh/index.jsx](http://www.ups.com/content/tw/zh/index.jsx)）
+    - [中華郵政](http://www.post.gov.tw/post/index.jsp)
+    - [DHL](http://www.dhl.com.tw/publish/tw/zt.high.html)
+    - [UPS](http://www.ups.com/content/tw/zh/index.jsx)
 - 約一至兩週後，會收到貼有外館『驗證貼紙』及『蓋鋼印』的畢業證書影本及成績單正本。
 
 <br>
