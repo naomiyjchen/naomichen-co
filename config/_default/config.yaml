@@ -12,7 +12,7 @@ copyright: '&copy; {year} Naomi Chen. All rights reserved.' # Footer text, e.g. 
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
