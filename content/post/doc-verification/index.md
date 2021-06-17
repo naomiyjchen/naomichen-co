@@ -93,7 +93,7 @@ categories:
 - 申請人畢業後向學校所申請之「彌封」成績單。請將該彌封成績單(勿拆封)隨申請文件寄至駐美台灣經濟文化代表處，或請學校將該彌封成績單逕寄駐美台灣經濟文化代表處
 
 - 其他駐外館處要求之應備文件。
-    - 每個地區的要求可能略有差異，以 駐洛杉磯胎灣經濟文化辦事處為例，回郵限定使用USPS:  Applications submitted by mail must also include a self-addressed stamped envelope with sufficient mailing fee. Taipei Economic and Cultural Office in Los Angeles only forward accepted and processed applications via Express Mail provided by **USPS**. Please click [HERE](https://postcalc.usps.com/) for current rate. [ref: [Authentication Service for Documentations](https://www.taiwanembassy.org/uslax_en/post/134.html)]
+    - 每個地區的要求可能略有差異，以 駐洛杉磯台灣經濟文化辦事處為例，回郵限定使用USPS:  Applications submitted by mail must also include a self-addressed stamped envelope with sufficient mailing fee. Taipei Economic and Cultural Office in Los Angeles only forward accepted and processed applications via Express Mail provided by **USPS**. Please click [HERE](https://postcalc.usps.com/) for current rate. [ref: [Authentication Service for Documentations](https://www.taiwanembassy.org/uslax_en/post/134.html)]
 
 ### 2. 郵寄至駐美台灣經濟文化代表處
 
